@@ -1,7 +1,7 @@
 # ♟️ Chess App
 
 A modern Android chess application built with **Kotlin** and **Jetpack Compose**.
-[You can add a more detailed 1-2 paragraph description here. For example: "This project provides a fully functional local chess game with standard move validation, check/checkmate detection, and a clean, responsive user interface."]
+
 
 ## ✨ Features
 * **Local Multiplayer**: Play against a friend on the same device.
@@ -26,4 +26,4 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/Denisfis/Chess.git](https://github.com/Denisfis/Chess.git)
+   git clone https://github.com/Denisfis/Chess.git
