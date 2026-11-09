@@ -10,19 +10,17 @@ A modern Android chess application built with **Kotlin** and **Jetpack Compose**
 * **Responsive Design**: The chess board automatically scales to fit different Android screen sizes perfectly.
 
 ## 🏗️ Architecture
-This project is built using the **MVC (Model-View-Controller)**[cite: 15] architectural pattern adapted for modern declarative UI:
-* **Model**: Contains the core business logic, chess algorithms, piece movement rules, and the state of the board[cite: 15].
+This project is built using the **MVC (Model-View-Controller)** architectural pattern adapted for modern declarative UI:
+* **Model**: Contains the core business logic, chess algorithms, piece movement rules, and the state of the board.
 * **View**: Composable functions in Jetpack Compose that observe the state and render the visual representation of the game.
-* **Controller**: Activity classes that capture user interactions (taps on the board) and trigger updates in the Model[cite: 15].
+* **Controller**: Activity classes that capture user interactions (taps on the board) and trigger updates in the Model.
 
 ## 🛠️ Tech Stack
-* **Language**: **Kotlin**[cite: 15]
-* **IDE**: **Android Studio**[cite: 15]
+* **Language**: **Kotlin**
+* **IDE**: **Android Studio**
 * **UI Toolkit**: Jetpack Compose
 * **Build System**: Gradle (Kotlin DSL)
 
-## 🚀 Installation & Setup
-To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
