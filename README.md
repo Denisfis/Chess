@@ -20,9 +20,6 @@ This project is built using the **MVC (Model-View-Controller)** architectural pa
 * **UI Toolkit**: Jetpack Compose
 * **Build System**: Gradle (Kotlin DSL)
 
-## 🚀 Installation & Setup
-To run this project on your local machine, follow these steps:
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Denisfis/Chess.git
