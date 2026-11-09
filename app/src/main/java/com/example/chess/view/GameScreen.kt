@@ -22,7 +22,7 @@ fun GameScreen(onNavigateBack: () -> Unit) {
         Button(
             onClick = onNavigateBack
         ) {
-            Text(text = "Выйти в меню")
+            Text(text = "Back to the menu")
         }
     }
 }
